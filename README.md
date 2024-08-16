@@ -43,7 +43,7 @@ Digitately Drive (https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N
 Automatically derived relationships which can be adjusted to remove and replace unwanted relationships with the required. 5 tables;
 - consumer preferences
 - consumers
--ratings
+- ratings
 - restaurant cuisines
 - restaurants
 
