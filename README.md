@@ -79,4 +79,4 @@ This model has a star schema
 1. Page 1
    (insert link here do not forget)
 
-!
+![]()
