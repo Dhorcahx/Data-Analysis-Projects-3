@@ -40,7 +40,7 @@ Digitately Drive (https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N
 
 ### Data Modelling
 
-Automatically derived relationships which can be adjusted to remove and replace unwanted relationships with the required. 5 tables;
+Automatically derived relationships which can be adjusted to add remove and replace unwanted relationships with the required. 5 tables;
 - consumer preferences
 - consumers
 - ratings
