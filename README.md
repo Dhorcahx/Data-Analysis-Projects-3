@@ -47,6 +47,10 @@ Automatically derived relationships which can be adjusted to remove and replace 
 - restaurant cuisines
 - restaurants
 
+Model View
+:---------------:
+![](model.png)
+This model has a star schema
 
 ### Visualisation
 
@@ -82,11 +86,6 @@ This one can type in findings from analyse data to give more clarity
 Before filling text box| After filling text box
 :---------------------:|:----------------------:
 ![](v1.png)            |  ![](text_box2.png)
-
-Model View
-:---------------:
-![](model.png)
-This model has a star schema
 
  ### Conclusion 
 
