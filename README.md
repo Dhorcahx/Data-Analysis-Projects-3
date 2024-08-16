@@ -95,7 +95,7 @@ All highly rated restaurants are located in the San Luis Potosi City. And from t
 The consumer demographics by occupation, show that most of these consumers are students. We have a few being employed and a percentage of 1.45 being unemployed.
 Consumer count by age show that most consumers are in their 20’s, early 20’s to be precise.  
 The count of consumers by budget show that most of these consumers budgets a medium price for the meals they buy, a percentage of 3.26 budgeting high for the meals they buy and also a percentage of 25.36 budgeting low. 
-Consumer count by state and city. Show that most of these consumers are the city and state of San Luis Potosi. So here I would say there is a bias here because the highly rated restaurants here are from San Luis Potosi, where most the consumer demographic for this analysis. There is also a bias since most of these consumers are in their 20s are students. 
+Consumer count by state and city shows that most of these consumers are in the city and state of San Luis Potosi. So here I would say there is a bias here because the highly rated restaurants here are from San Luis Potosi, where most the consumer demographic for this analysis. There is also a bias since most of these consumers are in their 20s are students. 
 
 Exploiting the age difference of consumers would be a game changer being that most of the consumers in this dataset are their 20s. And most, if not all are schooling that means they have low budget when it comes to food since their money is being used for other things mostly education. I would supply them with meals with low prices so that they can afford it and then patronize my restaurant more if it was one of these restaurants. 
 
